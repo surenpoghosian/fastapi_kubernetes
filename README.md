@@ -1,0 +1,1 @@
+# Fastapi backend application with kubernetes support
